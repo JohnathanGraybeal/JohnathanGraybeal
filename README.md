@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions .
-- 🎓 &nbsp; Studying Computer Science.
+- 🤔 &nbsp; Exploring new technologies and learning full-stack development .
+- 🎓 &nbsp; Studying Computing.
 - 💼 &nbsp; Student.
 - 🌱 &nbsp; Enthusiast in cyber Security.
 - ✍️ &nbsp; Currently teaching myself how to draw/illustrate
@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Node.js | C#  
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MongoDB | Oracle / PL/SQL
+- 💻 &nbsp; Python | TypeScript | C#  
+- 🌐 &nbsp;  React| SASS | NextJS | Bootstrap 
+- 🛢 &nbsp; SQLServer | Redis
 - 🔧 &nbsp; Visual Studio code | Visual Studio | Git
 
 <br>
