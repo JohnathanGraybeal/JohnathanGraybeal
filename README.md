@@ -31,7 +31,6 @@
 
 &nbsp; <a href="https://www.linkedin.com/in/johnathangraybeal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   
-  &nbsp; <a href="https://johnathangraybeal.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="50" /></a>
   
   &nbsp; <a href="mailto:graybealjohnathan@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png" width="50" /></a>
 </p>
