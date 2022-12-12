@@ -2,11 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React 
 - 🤔 &nbsp; Exploring new technologies and learning full-stack development .
-- 🎓 &nbsp; Studying Computing.
-- 💼 &nbsp; Student.
-- 🌱 &nbsp; Enthusiast in cyber Security.
 - ✍️ &nbsp; Currently teaching myself how to draw/illustrate
 
 
